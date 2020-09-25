@@ -1,0 +1,41 @@
+<h1>Vim Tips</h1>
+
+<h3>Resize Buffers</h3>
+
+<p><strong>Vertical:</strong> <code>:vertical resize +/-N</code></p>
+
+<p><strong>Horizontal:</strong> <code>:resize +/-N</code></p>
+
+<h3>NERDTree Pane Management</h3>
+
+<p><strong>Open horizontal:</strong> <code>s</code></p>
+
+<p><strong>Open vertical:</strong> <code>i</code></p>
+
+<h3>Marks</h3>
+
+<p><strong>Mark global:</strong> <code>m&lt;CapitalLetter&gt;</code></p>
+
+<p><strong>Go to mark:</strong> <code>&#39;&lt;CapitalLetter&gt;</code></p>
+
+<h3>Macro</h3>
+
+<p><strong>Record:</strong> <code>q&lt;Letter&gt;&lt;Run commands&gt;q</code></p>
+
+<p><strong>Run:</strong> <code>@&lt;Letter&gt;</code></p>
+
+<p><strong>Run again:</strong> <code>@@</code></p>
+
+<h3>Global Find &amp; Replace</h3>
+
+<p><strong>Find:</strong> <code>:vimgrep /term/gj **/*</code></p>
+
+<p><strong>View:</strong> <code>:copen</code></p>
+
+<p><strong>Replace:</strong> <code>:cfdo %s/term/replace/gc | update</code></p>
+
+<p><em>OR</em></p>
+
+<p><strong>Find:</strong> <code>:args **/*</code></p>
+
+<p><strong>Replace:</strong> <code>:argdo %s/term/replace/gce | update</code></p>
