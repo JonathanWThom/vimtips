@@ -1,5 +1,10 @@
 # Vim Tips
 
+### Copy
+
+**Copy to system clipboard:** `<select in visual mode>"*y`
+
+
 ### Resize Buffers
 
 **Vertical:** `:vertical resize +/-N`
