@@ -4,6 +4,8 @@
 
 **Copy to system clipboard:** `<select in visual mode>"*y`
 
+**Copy to end of line:** `y$`
+
 
 ### Resize Buffers
 
