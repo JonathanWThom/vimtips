@@ -54,10 +54,6 @@
 
 **View:** `:copen`
 
-### Move between windows
-
-**With new mapping, togggle:** `<space>l` and `<space>h`
-
 **Replace:** `:cfdo %s/term/replace/gc | update`
 
 *OR*
@@ -65,3 +61,10 @@
 **Find:** `:args **/*`
 
 **Replace:** `:argdo %s/term/replace/gce | update`
+
+
+### Move between windows
+
+**With new mapping, togggle:** `<space>l` and `<space>h`
+
+
