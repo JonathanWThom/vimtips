@@ -1,5 +1,13 @@
 # Vim Tips
 
+### Global Find & Replace
+
+**Install wincent/ferret**
+
+**Find:** `:Ack pattern` or `<space>a pattern`
+
+**Replace:** `:Acks /pattern/replacement/gc`
+
 ### Jump to Definition
 
 **With new mapping:** `<space>gd`
@@ -46,21 +54,6 @@
 **Run:** `@<Letter>`
 
 **Run again:** `@@`
-
-
-### Global Find & Replace
-
-**Find:** `:vimgrep /term/gj **/*`
-
-**View:** `:copen`
-
-**Replace:** `:cfdo %s/term/replace/gc | update`
-
-*OR*
-
-**Find:** `:args **/*`
-
-**Replace:** `:argdo %s/term/replace/gce | update`
 
 
 ### Move between windows
