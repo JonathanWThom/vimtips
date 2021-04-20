@@ -8,6 +8,12 @@
 
 **Replace:** `:Acks /pattern/replacement/gc`
 
+### Delete
+
+**Delete to end of word plus space:** `dE`
+
+**Delete to end of line:** `d$`
+
 ### Jump to Definition
 
 **With new mapping:** `<space>gd`
