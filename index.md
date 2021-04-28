@@ -8,6 +8,12 @@
 
 **Replace:** `:Acks /pattern/replacement/gc`
 
+### Split
+
+**Horizontal split:** `:sp`
+
+**Vertical split:** `:vsp`
+
 ### Delete
 
 **Delete to end of word plus space:** `dE`
@@ -64,6 +70,6 @@
 
 ### Move between windows
 
-**With new mapping, togggle:** `<space>l` and `<space>h`
+**With new mapping, togggle:** `<space>l`, `<space>h`, `<space>j`, `<space>k`
 
 
