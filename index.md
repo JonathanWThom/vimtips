@@ -8,6 +8,14 @@
 
 **Replace:** `:Acks /pattern/replacement/gc`
 
+## Line Movement
+
+**First character of line:** `^`
+
+**Last non-blank character of line (useful for visual mode):** `g_`
+
+**Delete to end of line:** `dg_`
+
 ### Split
 
 **Horizontal split:** `:sp`
