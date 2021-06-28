@@ -30,6 +30,8 @@
 
 **Delete to end of line:** `d$`
 
+**Delete current word:** `diw`
+
 ### Jump to Definition
 
 **With new mapping:** `<space>gd`
