@@ -16,6 +16,8 @@
 
 **Delete to end of line:** `dg_`
 
+**Go to matching character (brace, paren, etc):** `%`
+
 ### Split
 
 **Horizontal split:** `:sp`
