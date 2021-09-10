@@ -64,12 +64,13 @@
 **Open vertical:** `i`
 
 
-### Marks
+### Marks & File Movement
 
 **Mark global:** `m<CapitalLetter>`
 
 **Go to mark:** `'<CapitalLetter>`
 
+**Go to previous file:** `<control>^`
 
 ### Macro
 
