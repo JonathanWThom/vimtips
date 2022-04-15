@@ -48,6 +48,8 @@
 
 **Copy to end of line:** `y$`
 
+**Select within:** `vi<thing>`
+
 ### Resize Buffers
 
 **With new mapping:** `<space>+` and `<space>-`
