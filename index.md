@@ -1,5 +1,15 @@
 # Vim Tips
 
+### Copy
+
+**Copy to system clipboard:** `<select in visual mode>"*y`
+
+**Copy to end of line:** `y$`
+
+**Select within:** `vi<thing>`
+
+**Copy within inclusive:** `ya<thing`
+
 ### Global Find & Replace
 
 **Install wincent/ferret**
@@ -41,14 +51,6 @@
 **Undo:** `u`
 
 **Redo:** `Ctrl-r`
-
-### Copy
-
-**Copy to system clipboard:** `<select in visual mode>"*y`
-
-**Copy to end of line:** `y$`
-
-**Select within:** `vi<thing>`
 
 ### Resize Buffers
 
