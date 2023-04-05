@@ -1,5 +1,9 @@
 # Vim Tips
 
+### YCM Shortcuts
+
+**:YcmCompleter FixIt**: `,fi`
+
 ### Copy
 
 **Copy to system clipboard:** `<select in visual mode>"*y`
